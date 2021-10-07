@@ -124,9 +124,9 @@ body {
 }
 
 .communityButton {
-	border: 2px solid #EFEFEF;
+	border: 2px solid #F5F5F5;
     text-decoration: none;
-    color: #EFEFEF;
+    color: #F5F5F5;
     padding: 5px 10px 5px 10px;
 	margin: 10px;
 }
@@ -137,6 +137,6 @@ body {
 }
 
 p {
-	color: #EFEFEF;
+	color: #F5F5F5;
 	padding: 0 10% 0 10%;
 }
