@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 :root {
-	--bg-color: #D3D3D3;
+	--bg-color: #36454F;
  	--secondary-color: #A9A9A9.;	
 }
 
@@ -21,7 +21,7 @@ body {
 	width: 100vw;	
 	display: grid;
 	place-items: center;
-	background-color: #D3D3D3;
+	background-color: #36454F;
 }
 
 .navbar {
@@ -126,7 +126,7 @@ body {
 .communityButton {
 	border: 2px solid #F5F5F5;
     text-decoration: none;
-    color: #F5F5F5;
+    color: #36454F;
     padding: 5px 10px 5px 10px;
 	margin: 10px;
 }
@@ -137,6 +137,6 @@ body {
 }
 
 p {
-	color: #F5F5F5;
+	color: #36454F;
 	padding: 0 10% 0 10%;
 }
