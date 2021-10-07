@@ -78,6 +78,7 @@ body {
 .input {
 	display: flex;
 	text-align: center;
+	background-color: ghostwhite;
 }
 
 #urlBar {
